@@ -4,4 +4,6 @@ let iphone = {
     price : 4500,
     available : true
 }
+
+
 console.log(iphone)
