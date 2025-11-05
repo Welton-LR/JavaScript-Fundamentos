@@ -6,5 +6,5 @@ tartarugasNinjas.pop(); // Removendo o último elemento
 console.log(tartarugasNinjas);
 tartarugasNinjas.shift(); //Removendo o primeiro elemento
 console.log(tartarugasNinjas);
-tartarugasNinjas.splice(0,2); //Escolhendo um índice e removendo dois elementos
+tartarugasNinjas.splice(1,0, "Splinter");
 console.log(tartarugasNinjas);
