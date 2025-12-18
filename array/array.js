@@ -13,4 +13,6 @@ que serão apagados. O terceiro são os elementos adicionados*/
 animals.splice(3,0,"turtle","bear")
 
 // node ./array/array.js
+
+animals.sort(); //Põe em ordem alfabética
 console.log(animals);

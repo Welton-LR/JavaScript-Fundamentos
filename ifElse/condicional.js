@@ -1,6 +1,6 @@
 // Aqui trabalharemos com as condicionais if e else.
 
-let driverSpeed = 120;
+let driverSpeed = 30;
 
 if (driverSpeed > 110) {
     console.log('Driving too fast');
