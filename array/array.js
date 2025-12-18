@@ -16,3 +16,4 @@ animals.splice(3,0,"turtle","bear")
 
 animals.sort(); //Põe em ordem alfabética
 console.log(animals);
+
